@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/chandrappagarichaithanya/Kidney-Disease-Classification-Deep-Learning
+Author: chandrappagarichaithanya
+Author-email: 23je0266@iitism.ac.in
+Project-URL: Bug Tracker, https://github.com/chandrappagarichaithanya/Kidney-Disease-Classification-Deep-Learning/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Disease-Classification-Deep-Learning
